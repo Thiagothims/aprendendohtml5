@@ -4,6 +4,9 @@
 ### Projeto de site do Google Glass ministrado pelo Professor Guanabara do Curso em Video
 ##### Por Thiago Santos 🖖
 
+#### :construction: Projeto em andamento... :construction:
+
+
 Utilizar a plataforma do Curso em video para aprender HTML e outras linguagens relacionadas ao desenvolvimento web
 Desenvolvendo um site sobre o Google Glass onde professor ensina desde a história da web até a manipulação de multimídia e formulários, estilizando e aplicando funções de dinamismo web. Com uma didatica simples e muita prática o aprendizado fica dinâmico e fácil de absorver.
 <br>
