@@ -1,17 +1,18 @@
 
-# :computer:Aprendendo HTML5, CSS3 e Java Script
+Aprendendo HTML5, CSS3 e Java Script
 
 ### Projeto de site do Google Glass ministrado pelo Professor Guanabara do Curso em Video
-##### Por Thiago Santos
+##### Por Thiago Santos 🖖
 
 Utilizar a plataforma do Curso em video para aprender HTML e outras linguagens relacionadas ao desenvolvimento web
 Desenvolvendo um site sobre o Google Glass onde professor ensina desde a história da web até a manipulação de multimídia e formulários, estilizando e aplicando funções de dinamismo web. Com uma didatica simples e muita prática o aprendizado fica dinâmico e fácil de absorver.
 <br>
 <br>
 <br>
-O que tenho aprendido com cada linguagem:
+# Aprendizado
 
-## HTML
+## HTML 5
+
 :white_circle: Organização semântica de um site<br>
 :white_circle: Criação de menu de navegação<br>
 :white_circle: Criação de tabelas<br>
@@ -30,5 +31,14 @@ O que tenho aprendido com cada linguagem:
 :white_circle: Máquina de estado<br>
 <br>
 
+## Tecnologias
+
+
 # Objetivo do Projeto
-Com este aprendizado acredito que é dará inicio o meu desenvolvimento como DevWeb, podendo aprimorar e desenvolver ainda mais minhas habilidades no estágio e na transição de carreira
+Com este aprendizado acredito que dar os primeiros passos para o inicio do meu desenvolvimento como DevWeb, podendo aprimorar e desenvolver ainda mais minhas habilidades no estágio e na transição de carreira.
+
+#### Estou a disposição para aprender!
+
+![image](https://user-images.githubusercontent.com/117207436/217629347-0807fff9-bba5-46c3-8931-640fa3937645.png)  ![image](https://user-images.githubusercontent.com/117207436/217629572-e2a26118-ceb3-4e2a-accb-6068799ccfd6.png)
+  ![image](https://user-images.githubusercontent.com/117207436/217629477-15c4ccc3-decc-48de-af3a-170225f2180b.png) 
+<br><br>
