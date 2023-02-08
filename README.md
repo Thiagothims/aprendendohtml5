@@ -35,7 +35,7 @@ Desenvolvendo um site sobre o Google Glass onde professor ensina desde a histór
 :red_circle: Pacote WAMP EasyPHP Devserver
 
 # Objetivo do Projeto
-Com este aprendizado acredito que dar os primeiros passos para o inicio do meu desenvolvimento como DevWeb, podendo aprimorar e desenvolver ainda mais minhas habilidades no estágio e na transição de carreira.
+Com este aprendizado acredito dar os primeiros passos para o inicio do meu desenvolvimento como DevWeb, podendo aprimorar e desenvolver ainda mais minhas habilidades no estágio e na transição de carreira.
 
 #### Estou a disposição para aprender!
 
