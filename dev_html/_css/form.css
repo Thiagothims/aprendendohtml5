@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+.album {
+    width: 700px;
+    margin: auto;
+    padding: 50px;
+    overflow: hidden;
+    list-style: none;
+}
+
+.album li {
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 5px solid rgb(255, 255, 255);
+    background-color: #ffffff;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, .4)
+}
+
+.album li#foto01 {
+    background: url('../_imagens/galeria-01.jpg') no-repeat;
+}

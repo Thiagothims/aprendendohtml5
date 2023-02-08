@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+.album-fotos {
+    width: 1000px;
+    margin: auto;
+    padding: 50px;
+    overflow: hidden;
+    list-style: none;
+}
