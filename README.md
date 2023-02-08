@@ -8,7 +8,6 @@ Utilizar a plataforma do Curso em video para aprender HTML e outras linguagens r
 Desenvolvendo um site sobre o Google Glass onde professor ensina desde a história da web até a manipulação de multimídia e formulários, estilizando e aplicando funções de dinamismo web. Com uma didatica simples e muita prática o aprendizado fica dinâmico e fácil de absorver.
 <br>
 <br>
-<br>
 # Aprendizado
 
 ## HTML 5
@@ -32,7 +31,8 @@ Desenvolvendo um site sobre o Google Glass onde professor ensina desde a histór
 <br>
 
 ## Tecnologias
-
+:red_circle: IDE - Visual Studio Code<br>
+:red_circle: Pacote WAMP EasyPHP Devserver
 
 # Objetivo do Projeto
 Com este aprendizado acredito que dar os primeiros passos para o inicio do meu desenvolvimento como DevWeb, podendo aprimorar e desenvolver ainda mais minhas habilidades no estágio e na transição de carreira.
