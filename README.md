@@ -1,5 +1,5 @@
 
-Aprendendo HTML5, CSS3 e Java Script
+# Aprendendo HTML5, CSS3 e Java Script
 
 ### Projeto de site do Google Glass ministrado pelo Professor Guanabara do Curso em Video
 ##### Por Thiago Santos 🖖
