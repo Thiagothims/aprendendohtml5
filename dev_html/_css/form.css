@@ -1,23 +1,54 @@
 @charset "UTF-8";
 
-.album {
-    width: 700px;
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;650;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+form {
+    width: 500px;
     margin: auto;
-    padding: 50px;
-    overflow: hidden;
-    list-style: none;
 }
 
-.album li {
-    float: left;
-    width: 200px;
-    height: 200px;
-    margin: 10px;
-    border: 5px solid rgb(255, 255, 255);
-    background-color: #ffffff;
-    box-shadow: 1px 1px 3px rgba(0, 0, 0, .4)
+input, textarea {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: 12pt;
 }
 
-.album li#foto01 {
-    background: url('../_imagens/galeria-01.jpg') no-repeat;
+input:hover, textarea:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+legend {
+    font-family: 'Montserrat', sans-serif;
+    color: rgba(0, 0, 0, 0.5);
+    font-weight: bold;
+    font-size: 13pt;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+fieldset {
+    border-color: rgba(0, 0, 0, 0.1);
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.35);
+    margin: 20px;
+}
+
+fieldset#sexo {
+    width: 205px;
+}
+
+fieldset#usuario {
+    background: url('../_imagens/icone-contato.png') no-repeat 95% 95%; 
+}
+
+fieldset#endereco {
+    background: url('../_imagens/icone-endereco.png') no-repeat 95% 95%; 
+}
+
+fieldset#mensagem {
+    background: url('../_imagens/icone-mensagem.png') no-repeat 95% 95%; 
+}
+
+fieldset#pedido {
+    background: url('../_imagens/icone-pagamento.png') no-repeat 95% 95%;
 }
