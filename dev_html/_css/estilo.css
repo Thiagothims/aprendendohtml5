@@ -261,6 +261,21 @@ aside#lateral h2 {
     padding-left: 10px;
 }
 
+video#video01 {
+    display: block;
+    position: relative;
+    top: -10px;
+    width: 500px;
+    height: 300px;
+    padding: 5px;
+}
+
+video#video02 {
+    display: block;
+    position: relative;
+    width: 340px;
+}
+
 /*Configuração do rodapé*/
 footer#rodape {
     clear: both;
